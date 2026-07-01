@@ -1,5 +1,4 @@
 #program to Count Prime Numbers in a Range 
-# Accept the starting number from the user
 start = int(input("Enter starting number: "))
 
 # Accept the ending number from the user
@@ -8,7 +7,6 @@ end = int(input("Enter ending number: "))
 # Variable to count total prime numbers
 count = 0
 
-# Display heading
 print("Prime numbers are:")
 
 # Loop through all numbers in the given range
